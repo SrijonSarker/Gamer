@@ -616,6 +616,7 @@ p.copy {
     }
     .headingGroup h1 {
         font-size: 32px;
+        text-align: center;
     }
     .headSub {
         color: #534C64;
@@ -748,6 +749,9 @@ p.copy {
         background: white;
     }
     
+    .container .left .headSub.des {
+        padding: 50px 0;
+    }
     
     
     .section7 {
